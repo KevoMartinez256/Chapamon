@@ -1,2 +1,2 @@
-# Chaparritas
-Chaparritas Studios Tools for Servers
+# Chapamon
+Chapamon is a custom Cobblemon expansion created for the Chapamon series.
